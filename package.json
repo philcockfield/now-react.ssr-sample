@@ -2,9 +2,6 @@
   "name": "test-now-react.ssr",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "dev": "now dev"
-  },
   "devDependencies": {
     "@now/node": "^0.12.6"
   },
