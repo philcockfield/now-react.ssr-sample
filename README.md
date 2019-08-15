@@ -1,6 +1,6 @@
 # Now Sample Debug Repo
 
-Sample repo for debugging a build issue with now.
+Sample repo for debugging a build issue with `zeit/now` v2.
 
 [Conversation on spectrum](https://spectrum.chat/zeit/now/securing-mongodb-altas~11523c5d-d17d-4cce-a3a6-e1f3d5195f0a).
 
