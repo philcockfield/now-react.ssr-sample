@@ -17,4 +17,4 @@ This repo initializes my `@platform/react.ssr` module, which is a small [micro](
 
 This module can be [found here](https://github.com/uiharness/platform/tree/master/code/react.ssr).
 
-None of the code running within the (https://github.com/zeit/micro) service touches `fs`.
+None of the code running within the [micro](https://github.com/zeit/micro) service touches `fs`.
